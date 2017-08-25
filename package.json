@@ -1,0 +1,27 @@
+{
+  "name": "simple-tcpscan",
+  "version": "1.0.0",
+  "description": "It check the tcp port of the target host.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nekijak/simple-tcpscan.git"
+  },
+  "author": {
+    "name": "Kentaro Kajino",
+    "email": "kentaro@kajiken.jp"
+  },
+  "keywords": [
+    "tcp",
+    "scan"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekijak/simple-tcpscan/issues"
+  },
+  "homepage": "https://github.com/nekijak/simple-tcpscan",
+  "dependencies": {}
+}
